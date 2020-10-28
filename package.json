@@ -9,6 +9,7 @@
 		"prettier:format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,json}' "
 	},
 	"dependencies": {
+		"dotenv": "^8.2.0",
 		"react": "^16.13.1",
 		"react-dom": "^16.13.1"
 	},
